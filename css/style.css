@@ -1,0 +1,14 @@
+*
+{
+margin:0;
+padding:0;
+box-sizing:border-box;	
+}
+.container{
+	width:90%;
+	
+}
+.head h1{
+	color:yellow;
+	font-size:1.3rem;
+}
